@@ -1,4 +1,4 @@
-A few projects which I did for my past interviews
+A few projects which I did as a test for my past interviews
 
 ### __Custom List__
 A simple custom list data structure implemented after IList\<T\> interface  
