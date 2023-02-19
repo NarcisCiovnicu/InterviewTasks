@@ -10,6 +10,8 @@ Create a basic client application with a simple UI that uses the API and display
 * add Unit tests for Logic layer
 * no need for a Database, data can be stored in memory
 
+---
+
 ## Technical details:
 __API project__
 * Name: OneTimePassword.API
