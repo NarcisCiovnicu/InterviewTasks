@@ -21,6 +21,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
 
 # Angular project -------------------------------------------------------
 
