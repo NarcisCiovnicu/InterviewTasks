@@ -1,4 +1,4 @@
-## Custom List project
+## __Custom List project__
 
 Create a custom list data structure by implementing IList\<T\> interface
 
@@ -10,4 +10,4 @@ Create a custom list data structure by implementing IList\<T\> interface
 ---
 
 ## Technical details:
-* .Net 6 - Conosle application
+* .Net 6 - Console application
